@@ -1,7 +1,7 @@
 ## Hello World !
-![DAPUNTA ID](https://user-images.githubusercontent.com/76211798/110226100-bce80200-7f1e-11eb-9c70-a22a5a7c71d3.jpg)
+![ADITYA ID](https://user-images.githubusercontent.com/76211798/110226100-bce80200-7f1e-11eb-9c70-a22a5a7c71d3.jpg)
 ## GitHub Stats  
-![Dapunta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=chartreuse-dark)  
+![ADITYA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dapunta&show_icons=true&theme=chartreuse-dark)  
 ## Repositories  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=premium&theme=chartreuse-dark)](https://github.com/Dapunta/premium)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dapunta&repo=sbf&theme=chartreuse-dark)](https://github.com/Dapunta/sbf)  
